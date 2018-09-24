@@ -1,0 +1,70 @@
+<!-- portfolio
+================================================== -->
+<section id="portfolio">
+
+ <div class="intro-wrap">
+
+   <div class="row narrow section-intro with-bottom-sep animate-this">
+     <div class="col-twelve">
+       <h3>Showcase</h3>
+       <h1>See Our Featured Projects.</h1>
+
+       <p class="lead">Selected / featured projects will be showcased here.</p>
+     </div>
+   </div> <!-- end row section-intro -->
+
+ </div> <!-- end intro-wrap -->
+
+ <div class="row portfolio-content">
+   <div class="col-twelve">
+     <div id="folio-wrap" class="bricks-wrapper">
+
+       <div class="brick folio-item">
+              <div class="item-wrap animate-this" data-src="images/portfolio/gallery/g-eth.jpg" data-sub-html="#01" >
+                 <a href="#" class="overlay">
+                   <img src="images/portfolio/eth.jpg" alt="Network">
+                    <div class="item-text">
+                     <span class="folio-types">
+                     Your project
+                  </span>
+                  <h3 class="folio-title">Can be showcased here</h3>
+               </div>
+                 </a>
+                 <a href="https://www.behance.net/" class='details-link' title="details">
+                   <i class="icon-link"></i>
+                 </a>
+              </div> <!-- end item-wrap -->
+
+         <div id="01" class='hide'>
+           <h4>Your project can be showcased here</h4>
+           <p>Once projects are completed, we will showcase them here for all to see. <a href="https://www.behance.net/">Details</a></p>
+         </div>
+       </div> <!-- end folio-item -->
+
+           <div class="brick folio-item">
+              <div class="item-wrap animate-this" data-src="images/portfolio/gallery/g-yellowwall.jpg" data-sub-html="#02">
+                 <a href="#" class="overlay">
+                   <img src="images/portfolio/yellowwall.jpg" alt="Shutterbug">
+                    <div class="item-text">
+                     <span class="folio-types">
+                     Articles
+                  </span>
+                  <h3 class="folio-title">Your articles can be here</h3>
+               </div>
+                 </a>
+                 <a href="https://www.behance.net/" class='details-link' title="details">
+                   <i class="icon-link"></i>
+                 </a>
+              </div> <!-- end item-wrap -->
+
+              <div id="02" class='hide'>
+           <h4>You can write articles</h4>
+           <p>You can write articles related to your work topic at TheOpClub. <a href="https://www.behance.net/">Details</a></p>
+         </div>
+           </div> <!-- end folio-item -->
+
+     </div> <!-- end folio-wrap -->
+   </div> <!-- end twelve -->
+ </div> <!-- end portfolio-content -->
+
+</section>  <!-- end portfolio -->
